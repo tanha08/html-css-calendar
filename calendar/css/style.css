@@ -1,0 +1,13 @@
+td{
+    text-align: center;
+    margin-left: 5px;
+    background-color:darkgrey;
+}
+th{
+    background-color:chartreuse;
+    color: black;
+}
+
+td:hover{
+    background-color:darkgreen;
+}
